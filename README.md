@@ -9,3 +9,4 @@ Then it summarises the results using the nltk library to provide you with a shor
 
 Just clone this repo . Install all the requires libraries by 'pip install -r requirements.txt' command . 
 now run the file with 'python -m {filename}.py' command
+ Also follow my blog for more projects .{codepypro.blogspot.com}
